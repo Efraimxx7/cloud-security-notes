@@ -339,6 +339,6 @@ git push --force origin main
 <div align="center">
 
 *Maintained as a personal reference for Cloud Security practices.*
-*Commands tested on Linux and macOS environments.*
+*Commands tested on Linux environment.*
 
 </div>
