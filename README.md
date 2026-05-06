@@ -9,7 +9,7 @@
  
 | File | Description |
 |---|---|
-| [🔀 Git for Cloud Security](./git-cloud-security.md) | Secure workflows, commit signing, secrets removal, auditing and incident response with Git |
+| [🔀 Git for Cloud Security](./git-cloud-security.md) | Secure workflows, commit signing, secrets removal, auditing and incident response with Git. |
 | [🐧 Linux for Cloud Security](./linux-cloud-security.md) | Auditing, permissions, network analysis, SSH hardening, logs and incident response on Linux |
 | [🪟 Windows for Cloud Security](./windows-cloud-security.md) | CMD and PowerShell commands for auditing, firewall, event logs and incident response on Windows |
  
