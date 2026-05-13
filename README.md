@@ -1,7 +1,7 @@
 # 🔐 Cloud Security Notes
  
-> Personal reference notes built while studying Cloud Security fundamentals.  
-> Covers essential commands and workflows used in real-world security environments.
+> Personal reference notes built while studying Cloud Security fundamentals  
+> Covers essential commands and workflows used in real-world security environments
  
 ---
  
